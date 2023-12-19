@@ -1,0 +1,16 @@
+{
+  "name": "notes-pdf-merger",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "node-cron": "^3.0.3",
+    "pdf-lib": "^1.17.1",
+    "selenium-webdriver": "^4.16.0"
+  }
+}
